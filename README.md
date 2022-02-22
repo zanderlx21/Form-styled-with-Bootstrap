@@ -1,3 +1,3 @@
 # A form styled with Bootstrap 
 
-Simple from using elements imported from Bootstrap
+Simple form styled using elements imported from Bootstrap
